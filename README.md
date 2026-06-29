@@ -159,59 +159,59 @@ Skripsi Muhammad Nabil/
 Berikut merupakan beberapa visualisasi antarmuka sistem dari hasil rancangan visual (*wireframe*) yang telah diimplementasikan:
 
 ### Halaman Login
-![Login](Hasil Wireframe/File%20PNG/login.png)
+![Login](Hasil%20Wireframe/File%20PNG/login.png)
 *Halaman masuk bagi pengguna sistem yang dilengkapi dengan proteksi keamanan CAPTCHA.*
 
 ### Dashboard Admin
-![Dashboard Admin](Hasil Wireframe/File%20PNG/dashboard.png)
+![Dashboard Admin](Hasil%20Wireframe/File%20PNG/dashboard.png)
 *Dasbor panel Admin yang menyajikan visualisasi data ringkasan order dan grafik statistik mingguan.*
 
 ### Dashboard Pimpinan
-![Dashboard Pimpinan](Hasil Wireframe/File%20PNG/dashboard_pimpinan.png)
+![Dashboard Pimpinan](Hasil%20Wireframe/File%20PNG/dashboard_pimpinan.png)
 *Dasbor panel Pimpinan untuk memantau laba kotor, total omset penjualan, serta status pengerjaan keseluruhan.*
 
 ### Manajemen Produk (Admin)
-![Manajemen Produk](Hasil Wireframe/File%20PNG/daftar_produk_admin.png)
+![Manajemen Produk](Hasil%20Wireframe/File%20PNG/daftar_produk_admin.png)
 *Halaman pengelolaan data katalog produk cetak dan kustomisasi layanan desain.*
 
 ### Kelola Pengguna (Admin)
-![Kelola Pengguna](Hasil Wireframe/File%20PNG/tambah_user.png)
+![Kelola Pengguna](Hasil%20Wireframe/File%20PNG/tambah_user.png)
 *Formulir kelola dan pendaftaran data pengguna baru beserta pembagian hak akses.*
 
 ### Daftar Transaksi Pesanan (Admin)
-![Daftar Transaksi Pesanan](Hasil Wireframe/File%20PNG/daftar_pesanan.png)
+![Daftar Transaksi Pesanan](Hasil%20Wireframe/File%20PNG/daftar_pesanan.png)
 *Daftar riwayat transaksi pemesanan masuk untuk memperbarui status pengerjaan produksi.*
 
 ### Verifikasi Pembayaran (Admin)
-![Verifikasi Pembayaran](Hasil Wireframe/File%20PNG/verifikasi_pembayaran.png)
+![Verifikasi Pembayaran](Hasil%20Wireframe/File%20PNG/verifikasi_pembayaran.png)
 *Halaman konfirmasi dan validasi bukti pembayaran manual yang diunggah pelanggan.*
 
 ### Laporan Keuangan (Pimpinan)
-![Laporan Keuangan](Hasil Wireframe/File%20PNG/laporan_pendapatan1.png)
-*Laporan finansial lengkap, laba kotor, laba bersih, dan omset usaha.*
+![Laporan Keuangan](Hasil%20Wireframe/File%20PNG/laporan_pendapatan1.png)
+*Laporan fungsional laba-rugi, omset penjualan, dan keuangan toko.*
 
 ### Beranda Utama (Pelanggan)
-![Beranda Utama Pelanggan](Hasil Wireframe/File%20PNG/beranda.png)
+![Beranda Utama Pelanggan](Hasil%20Wireframe/File%20PNG/beranda.png)
 *Halaman depan website ZimamADV yang menampilkan daftar produk unggulan percetakan.*
 
 ### Detail Produk & Kustomisasi
-![Detail Produk](Hasil Wireframe/File%20PNG/detail_produk.png)
+![Detail Produk](Hasil%20Wireframe/File%20PNG/detail_produk.png)
 *Halaman pemesanan produk kustom yang memungkinkan pelanggan memilih varian ukuran/bahan dan melampirkan berkas desain.*
 
 ### Keranjang Belanja
-![Keranjang Belanja](Hasil Wireframe/File%20PNG/keranjang_belanja.png)
+![Keranjang Belanja](Hasil%20Wireframe/File%20PNG/keranjang_belanja.png)
 *Daftar belanjaan produk pelanggan sebelum masuk ke proses transaksi checkout.*
 
 ### Formulir Checkout
-![Checkout](Hasil Wireframe/File%20PNG/chechout.png)
+![Checkout](Hasil%20Wireframe/File%20PNG/chechout.png)
 *Formulir penyelesaian transaksi pemesanan percetakan dengan penentuan koordinat pengiriman.*
 
 ### Pelacakan Status Produksi
-![Tracking](Hasil Wireframe/File%20PNG/tracking.png)
+![Tracking](Hasil%20Wireframe/File%20PNG/tracking.png)
 *Fitur tracking riwayat tahapan pengerjaan pesanan secara berkala (desain, revisi, cetak, selesai).*
 
 ### Live Chat Konsultasi Desain
-![Live Chat](Hasil Wireframe/File%20PNG/chat.png)
+![Live Chat](Hasil%20Wireframe/File%20PNG/chat.png)
 *Fitur live chat interaktif antara pelanggan dan admin desainer untuk berdiskusi konsep desain.*
 
 ---
