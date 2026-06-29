@@ -11,12 +11,6 @@ Dokumentasi repositori resmi untuk penelitian skripsi oleh **Muhammad Nabil**. R
 
 ---
 
-<p align="center">
-  <img src="https://images.unsplash.com/photo-1561070791-26c113006238?auto=format&fit=crop&w=1200&q=80" alt="Zimam Advertising Banner" width="100%" style="border-radius: 8px; max-height: 400px; object-fit: cover;">
-</p>
-
----
-
 ## 📌 Daftar Isi
 1. [Deskripsi Penelitian](#-deskripsi-penelitian)
 2. [Teknologi yang Digunakan](#-teknologi-yang-digunakan)
