@@ -32,7 +32,7 @@ Dokumentasi repositori resmi untuk penelitian skripsi oleh **Muhammad Nabil**. R
 ## 📖 Deskripsi Penelitian
 
 ### Latar Belakang
-**Zimam Advertising (ZimamADV)** merupakan badan usaha yang bergerak di bidang penyediaan jasa percetakan, periklanan, dan layanan desain grafis. Saat ini, seluruh proses operasional di ZimamADV—mulai dari penerimaan pesanan, konsultasi konsep desain, pelacakan proses produksi, hingga pembayaran—masih dilakukan secara manual dan konvensional. Hal ini memicu berbagai kendala, seperti kesulitan komunikasi jarak jauh terkait persetujuan desain, tidak adanya transparansi progres pengerjaan bagi pelanggan, risiko kesalahan pencatatan transaksi manual, dan ketidakakuratan perhitungan harga untuk produk cetak yang memiliki variasi kustom (seperti ukuran, bahan, dan biaya jasa desain tambahan).
+**Zimam Advertising (ZimamADV)** merupakan badan usaha yang bergerak di bidang penyediaan jasa percetakan, periklanan, dan layanan desain grafis. Saat ini, seluruh proses operasional di ZimamADV mulai dari penerimaan pesanan, konsultasi konsep desain, pelacakan proses produksi, hingga pembayaran masih dilakukan secara manual dan konvensional. Hal ini memicu berbagai kendala, seperti kesulitan komunikasi jarak jauh terkait persetujuan desain, tidak adanya transparansi progres pengerjaan bagi pelanggan, risiko kesalahan pencatatan transaksi manual, dan ketidakakuratan perhitungan harga untuk produk cetak yang memiliki variasi kustom (seperti ukuran, bahan, dan biaya jasa desain tambahan).
 
 ### Permasalahan
 1. **Komunikasi & Konsultasi Desain Kurang Terintegrasi**: Pelanggan kesulitan mengirim berkas desain berukuran besar dan melakukan diskusi revisi secara sistematis tanpa tatap muka langsung.
@@ -73,7 +73,7 @@ Berikut adalah rincian stack teknologi yang diimplementasikan dalam pengembangan
 Penelitian ini menggunakan metodologi **Agile Development** dengan model **Scrum**. 
 
 Alasan penggunaan metode Scrum adalah:
-1. **Fleksibilitas terhadap Perubahan**: Kebutuhan fitur operasional percetakan yang kompleks (seperti kalkulator kustom, live chat, dan pembayaran cicilan) membutuhkan evaluasi berkala yang dinamis. Scrum memungkinkan tim melakukan adaptasi cepat pada setiap akhir tahapan iterasi (*Sprint*).
+1. **Fleksibilitas terhadap Perubahan**: Kebutuhan fitur operasional percetakan yang kompleks (seperti kalkulator kustom, live chat, dan pembayaran cicilan) membutuhkan evaluasi berkala yang dinamis. Scrum memungkinkan penulis melakukan adaptasi cepat pada setiap akhir tahapan iterasi (*Sprint*).
 2. **Pengembangan Bertahap & Terukur**: Proyek dibagi menjadi beberapa bagian kecil yang dapat diselesaikan dalam jangka waktu 1–4 minggu (*Sprint*), memastikan setiap fitur utama diuji secara bertahap sebelum disatukan ke dalam sistem utuh.
 3. **Kolaborasi Intensif**: Evaluasi teratur melalui kegiatan evaluasi sprint mempermudah koordinasi serta memastikan sistem yang dibangun berjalan selaras dengan kebutuhan aktual pemilik usaha (ZimamADV) dan para pelanggan.
 
