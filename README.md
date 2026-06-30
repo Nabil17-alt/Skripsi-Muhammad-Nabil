@@ -7,7 +7,7 @@
 [![License MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](LICENSE)
 [![Version](https://img.shields.io/badge/Version-1.0.0-blue.svg?style=for-the-badge)](#)
 
-Dokumentasi repositori resmi untuk penelitian skripsi oleh **Muhammad Nabil**. Repositori ini memuat seluruh dokumen akademik, berkas presentasi, rancangan antarmuka (wireframe), data responden kuesioner, hingga *source code* lengkap dari sistem informasi berbasis web yang dikembangkan.
+Dokumentasi repositori resmi untuk penelitian skripsi oleh **Muhammad Nabil**. Repositori ini memuat seluruh dokumen akademik, berkas presentasi, rancangan antarmuka (wireframe), data responden kuesioner, hingga *source code* lengkap dari sistem point of sale (POS) & manajemen memesanan yang dikembangkan.
 
 ---
 
@@ -41,7 +41,7 @@ Dokumentasi repositori resmi untuk penelitian skripsi oleh **Muhammad Nabil**. R
 4. **Verifikasi Pembayaran Manual yang Rentan**: Transaksi manual berisiko tinggi terhadap kesalahan pencatatan keuangan serta rawan terhadap manipulasi bukti pembayaran.
 
 ### Tujuan Penelitian
-Membangun sistem informasi pemesanan jasa percetakan dan layanan desain berbasis web pada Zimam Advertising menggunakan framework Laravel. Sistem ini ditujukan untuk mendigitalisasi seluruh rantai transaksi, mulai dari pemilihan produk, konsultasi desain secara terpadu melalui fitur *live chat*, tracking tahapan produksi, hingga otomatisasi verifikasi pembayaran menggunakan payment gateway.
+Membangun sistem point of sale (POS) & manajemen pemesanan ZimamAdv menggunakan framework Laravel. Sistem ini ditujukan untuk mendigitalisasi seluruh rantai transaksi, mulai dari pemilihan produk, konsultasi desain secara terpadu melalui fitur *live chat*, tracking tahapan produksi, hingga otomatisasi verifikasi pembayaran menggunakan payment gateway.
 
 ### Manfaat Penelitian
 - **Bagi Pelanggan**: Memberikan kemudahan dalam memesan produk percetakan kapan saja, berkonsultasi desain secara langsung secara online, memantau posisi progres pengerjaan pesanan secara transparan, serta melakukan pembayaran secara instan dan aman.
@@ -52,7 +52,7 @@ Membangun sistem informasi pemesanan jasa percetakan dan layanan desain berbasis
 
 ## 🛠 Teknologi yang Digunakan
 
-Berikut adalah rincian stack teknologi yang diimplementasikan dalam pengembangan sistem informasi ZimamADV:
+Berikut adalah rincian stack teknologi yang diimplementasikan dalam pengembangan sistem point of sale (POS) & manajemen pemesanan ZimamAdv:
 
 | Teknologi | Kegunaan |
 | :--- | :--- |
@@ -158,7 +158,7 @@ Berikut merupakan beberapa visualisasi antarmuka sistem dari hasil rancangan vis
 
 ### Dashboard Admin
 ![Dashboard Admin](Hasil%20Wireframe/File%20PNG/dashboard.png)
-*Dasbor panel Admin yang menyajikan visualisasi data ringkasan order dan grafik statistik mingguan.*
+*Dasbor panel Admin yang menyajikan visualisasi data ringkasan order dan grafik statistik tahunan,bulanan,mingguan hingga harian.*
 
 ### Dashboard Pimpinan
 ![Dashboard Pimpinan](Hasil%20Wireframe/File%20PNG/dashboard_pimpinan.png)
@@ -182,7 +182,7 @@ Berikut merupakan beberapa visualisasi antarmuka sistem dari hasil rancangan vis
 
 ### Laporan Keuangan (Pimpinan)
 ![Laporan Keuangan](Hasil%20Wireframe/File%20PNG/laporan_pendapatan1.png)
-*Laporan fungsional laba-rugi, omset penjualan, dan keuangan toko.*
+*Laporan pendapatan zimam advertising berdasarkan grafik yang ada.*
 
 ### Beranda Utama (Pelanggan)
 ![Beranda Utama Pelanggan](Hasil%20Wireframe/File%20PNG/beranda.png)
@@ -190,7 +190,7 @@ Berikut merupakan beberapa visualisasi antarmuka sistem dari hasil rancangan vis
 
 ### Detail Produk & Kustomisasi
 ![Detail Produk](Hasil%20Wireframe/File%20PNG/detail_produk.png)
-*Halaman pemesanan produk kustom yang memungkinkan pelanggan memilih varian ukuran/bahan dan melampirkan berkas desain.*
+*Halaman pemesanan produk kustom yang memungkinkan pelanggan memilih varian desain sendiri atau menggunakan jasa desain dari zimam serta melampirkan berkas desain.*
 
 ### Keranjang Belanja
 ![Keranjang Belanja](Hasil%20Wireframe/File%20PNG/keranjang_belanja.png)
@@ -215,8 +215,8 @@ Berikut merupakan beberapa visualisasi antarmuka sistem dari hasil rancangan vis
 Secara mendetail, isi dari masing-masing folder utama repositori ini adalah sebagai berikut:
 
 ### 1. File Skripsi
-Folder ini menyimpan dokumen skripsi final bertajuk penelitian Sistem Informasi ZimamADV:
-- `Skripsi Final.pdf`: Dokumen akademik lengkap berformat PDF yang telah ditandatangani.
+Folder ini menyimpan dokumen skripsi final bertajuk penelitian Sistem Point of Sale (POS) & Manajemen Pemesanan ZimamAdv:
+- `Skripsi Final.pdf`: Dokumen akademik lengkap berformat PDF.
 - `Skripsi Final.docx`: Salinan naskah skripsi berformat Word untuk keperluan penyuntingan atau pengutipan akademik.
 
 ### 2. File PPT
@@ -409,7 +409,7 @@ Fitur interaksi real-time di dalam sistem yang memungkinkan pelanggan berdiskusi
 
 ## 📝 Hasil Penelitian
 
-Berdasarkan implementasi sistem informasi pemesanan jasa percetakan pada Zimam Advertising, diperoleh hasil penelitian sebagai berikut:
+Berdasarkan implementasi sistem point of sale (POS) & manajemen pemesanan ZimamAdv, diperoleh hasil penelitian sebagai berikut:
 1. **Peningkatan Efisiensi Pemesanan**: Sistem berhasil mendigitalisasi proses pemesanan manual menjadi berbasis online terstruktur, memotong waktu tunggu antrean pengerjaan pelanggan.
 2. **Kesesuaian Fungsionalitas**: Seluruh modul fungsional sistem (Admin, Customer, Pimpinan) berhasil dikembangkan dan diuji menggunakan metode *Black Box Testing* dengan tingkat keberhasilan **100%**.
 3. **Penerimaan Pengguna yang Sangat Baik**: Berdasarkan hasil pengujian *User Acceptance Testing (UAT)* yang melibatkan responden pengguna akhir, sistem memperoleh nilai indeks kepuasan sebesar **81,29%** yang diklasifikasikan ke dalam kategori **Sangat Baik**.
